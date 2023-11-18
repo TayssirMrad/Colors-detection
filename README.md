@@ -20,3 +20,8 @@ by using the arduino's microphone i've recorded :
 4. Training the ML Model
 
 ![image](https://github.com/TayssirMrad/Colors-detection/assets/60198040/7dc76f6d-0b63-419b-b9a7-a6863915194b)
+
+
+5. Using the ML Model
+
+![image](https://github.com/TayssirMrad/Colors-detection/assets/60198040/99324377-1f24-4535-8f03-092582833750)
